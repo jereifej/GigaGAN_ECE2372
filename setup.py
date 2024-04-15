@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup, find_packages, __version__
 
 exec(open('gigagan_pytorch/version.py').read())
 
